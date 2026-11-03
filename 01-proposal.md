@@ -1,1 +1,5 @@
+Proposal:
+This project aims to develop an AI-powered sentiment analysis system that classifies movie reviews as positive or negative based on their textual content. Using the IMDb Movie Reviews dataset available on Kaggle, we will explore how Natural Language Processing (NLP) and machine learning techniques can be applied to understand and interpret human opinions.
+The project will involve data exploration, text preprocessing, feature extraction, and model training. We plan to experiment with different classification algorithms, such as Naive Bayes, Logistic Regression, and Support Vector Machines (SVM), to compare their performance in predicting review sentiments. Additionally, we will investigate how different text representation techniques, such as Bag of Words and TF-IDF, influence classification results.
+As a potential prototype, we aim to develop a simple web application that allows users to input movie reviews and receive an automated sentiment prediction. Through this project, we hope to demonstrate the practical applications of AI in analysing textual data and understanding customer opinions.
 
